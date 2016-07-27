@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="br.com.climaco.agenda.FormularioActivity">
+
+    <item
+        android:id="@+id/menu_formulario_ok"
+        android:title="Ok"
+        android:icon="@drawable/ic_done_white_24dp"
+        app:showAsAction="always"/>
+
+</menu>
